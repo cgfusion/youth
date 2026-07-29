@@ -106823,7 +106823,7 @@ A.aGR.prototype={
 $0(){},
 $S:0}
 A.aH0.prototype={
-$1(a){var s=null,r=this.b,q=this.c,p=t.p,o=A.bk(A.b([A.fn(s,B.aw,!1,s,!0,B.p,s,A.fJ(),r,s,s,s,s,s,2,B.PB,B.B,!0,s,!0,s,!1,s,B.aE,s,s,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aK,s,s,s,s,s,s,s,s,s,s,s,s,!0,B.a1,s,B.b1,s,s,s,s),B.an,A.fn(s,B.aw,!1,s,!0,B.p,s,A.fJ(),q,s,s,s,s,s,2,B.Pz,B.B,!0,s,!0,s,!1,s,B.aE,s,s,s,s,s,s,s,s,1,s,s,!0,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aK,s,s,s,s,s,s,s,s,s,s,s,s,!0,B.a1,s,B.b1,s,s,s,s)],p),B.t,B.m,B.am)
+$1(a){var s=null,r=this.b,q=this.c,p=t.p,o=A.bk(A.b([A.fn(s,B.aw,!1,s,!0,B.p,s,A.fJ(),r,s,s,s,s,s,2,B.PC,B.B,!0,s,!0,s,!1,s,B.aE,s,s,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aK,s,s,s,s,s,s,s,s,s,s,s,s,!0,B.a1,s,B.b1,s,s,s,s),B.an,A.fn(s,B.aw,!1,s,!0,B.p,s,A.fJ(),q,s,s,s,s,s,2,B.Pz,B.B,!0,s,!0,s,!1,s,B.aE,s,s,s,s,s,s,s,s,1,s,s,!0,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aK,s,s,s,s,s,s,s,s,s,s,s,s,!0,B.a1,s,B.b1,s,s,s,s)],p),B.t,B.m,B.am)
 return A.fK(A.b([A.f0(B.bT,new A.aGZ(a),s),A.fa(B.ab3,new A.aH_(this.a,r,a,q),s)],p),o,s,B.abk)},
 $S:38}
 A.aGZ.prototype={
@@ -107205,7 +107205,7 @@ return A.u($async$xL,r)},
 agd(a,b,c){var s=null,r="\u2022",q=t.p,p=A.bL(A.b([A.df(A.fn(s,B.aw,!1,s,!0,B.p,s,A.fJ(),a.a,s,s,s,s,s,2,B.PV,B.B,!0,s,!0,s,!1,s,B.aE,s,s,s,s,s,s,s,s,1,s,s,!1,r,s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aK,s,s,s,s,s,s,s,s,s,s,s,s,!0,B.a1,s,B.b1,s,s,s,s),1),B.b6,A.df(A.fn(s,B.aw,!1,s,!0,B.p,s,A.fJ(),a.b,s,s,s,s,s,2,B.PO,B.B,!0,s,!0,s,!1,s,B.aE,s,s,s,s,s,s,s,s,1,s,s,!1,r,s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aK,s,s,s,s,s,s,s,s,s,s,s,s,!0,B.a1,s,B.b1,s,s,s,s),1),A.eb(s,s,s,B.eR,s,s,b,s,s,s,s,s)],q),B.t,B.m,B.o,0,s),o=A.fn(s,B.aw,!1,s,!0,B.p,s,A.fJ(),a.f,s,s,s,s,s,2,B.PU,B.B,!0,s,!0,s,!1,s,B.aE,s,s,s,s,s,s,s,s,1,s,s,!1,r,s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aK,s,s,s,s,s,s,s,s,s,s,s,s,!0,B.a1,s,B.b1,s,s,s,s),n=a.r
 n=A.b([p,B.an,o,B.an,A.bL(A.b([A.df(A.hV(B.PT,n,B.RD,new A.ca("type_"+n,t.kK),new A.axA(c,a),s,t.N),1),B.cO,A.bL(A.b([B.abt,A.OX(new A.axB(c,a),!1,a.w)],q),B.t,B.m,B.o,0,s)],q),B.t,B.m,B.o,0,s)],q)
 if(a.r==="select")B.b.L(n,A.b([B.an,A.fn(s,B.aw,!1,s,!0,B.p,s,A.fJ(),a.c,s,s,s,s,s,2,B.PQ,B.B,!0,s,!0,s,!1,s,B.aE,s,s,s,s,s,s,s,s,1,s,s,!1,r,s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aK,s,s,s,s,s,s,s,s,s,s,s,s,!0,B.a1,s,B.b1,s,s,s,s),B.fb,A.bL(A.b([A.OX(new A.axC(c,a),!1,a.x),B.MR],q),B.t,B.m,B.o,0,s)],q))
-if(a.r==="image_choice")B.b.L(n,A.b([B.an,A.fn(s,B.aw,!1,s,!0,B.p,s,A.fJ(),a.d,s,s,s,s,s,2,B.PC,B.B,!0,s,!0,s,!1,s,B.aE,s,s,s,s,s,s,s,s,1,s,s,!1,r,s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aK,s,s,s,s,s,s,s,s,s,s,s,s,!0,B.a1,s,B.b1,s,s,s,s),B.an,A.fn(s,B.aw,!1,s,!0,B.p,s,A.fJ(),a.e,s,s,s,s,s,2,B.PM,B.B,!0,s,!0,s,!1,s,B.aE,s,s,s,s,s,s,s,s,1,s,s,!1,r,s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aK,s,s,s,s,s,s,s,s,s,s,s,s,!0,B.a1,s,B.b1,s,s,s,s)],q))
+if(a.r==="image_choice")B.b.L(n,A.b([B.an,A.fn(s,B.aw,!1,s,!0,B.p,s,A.fJ(),a.d,s,s,s,s,s,2,B.PD,B.B,!0,s,!0,s,!1,s,B.aE,s,s,s,s,s,s,s,s,1,s,s,!1,r,s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aK,s,s,s,s,s,s,s,s,s,s,s,s,!0,B.a1,s,B.b1,s,s,s,s),B.an,A.fn(s,B.aw,!1,s,!0,B.p,s,A.fJ(),a.e,s,s,s,s,s,2,B.PM,B.B,!0,s,!0,s,!1,s,B.aE,s,s,s,s,s,s,s,s,1,s,s,!1,r,s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aK,s,s,s,s,s,s,s,s,s,s,s,s,!0,B.a1,s,B.b1,s,s,s,s)],q))
 return new A.au(B.qQ,A.bk(n,B.E,B.m,B.o),s)},
 agI(){var s,r=this,q=null,p=A.wP(B.j1,B.aca,new A.ayi(r),q)
 if(r.ay)s=B.ew
@@ -108975,7 +108975,7 @@ return new A.ia(new A.azi(s.a,s.b,s.c,s.d,s.e),null)},
 $S:50}
 A.azi.prototype={
 $2(a,b){var s=this,r=null,q=s.c,p=A.ad("Record Payment for "+q.length+" Participants",r,r,r,r,B.ax,r,r),o=A.ad("Each participant will be recorded at their own expected fee (total RM"+B.d.ab(s.d,2)+").",r,r,r,r,B.ec,r,r),n=s.a,m=n.a,l=s.e,k=t.p
-m=A.bk(A.b([o,B.an,A.hV(B.t3,m,B.RX,new A.ca("groupstatus_"+m,t.kK),new A.azf(n,b),r,t.N),B.an,A.fn(r,B.aw,!1,r,!0,B.p,r,A.fJ(),l,r,r,r,r,r,2,B.PD,B.B,!0,r,!0,r,!1,r,B.aE,r,r,r,r,r,r,r,r,1,r,r,!1,"\u2022",r,r,r,r,r,!1,r,r,!1,r,!0,r,B.aK,r,r,r,r,r,r,r,r,r,r,r,r,!0,B.a1,r,B.b1,r,r,r,r)],k),B.E,B.m,B.am)
+m=A.bk(A.b([o,B.an,A.hV(B.t3,m,B.RX,new A.ca("groupstatus_"+m,t.kK),new A.azf(n,b),r,t.N),B.an,A.fn(r,B.aw,!1,r,!0,B.p,r,A.fJ(),l,r,r,r,r,r,2,B.PB,B.B,!0,r,!0,r,!1,r,B.aE,r,r,r,r,r,r,r,r,1,r,r,!1,"\u2022",r,r,r,r,r,!1,r,r,!1,r,!0,r,B.aK,r,r,r,r,r,r,r,r,r,r,r,r,!0,B.a1,r,B.b1,r,r,r,r)],k),B.E,B.m,B.am)
 return A.fK(A.b([A.f0(B.bT,new A.azg(a),r),A.fa(B.EV,new A.azh(n,s.b,l,q,a),r)],k),m,r,p)},
 $S:63}
 A.azf.prototype={
@@ -116910,11 +116910,11 @@ B.Pz=new A.cG(null,null,null,"Password",null,null,null,null,null,null,null,null,
 B.Nw=new A.aC(57874,"MaterialIcons",!1)
 B.rU=new A.bn(B.Nw,null,null,null,null)
 B.PA=new A.cG(null,null,null,"Registration Form",null,null,null,null,null,null,null,null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,B.rU,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null)
+B.PB=new A.cG(null,null,null,"Note (optional)",null,null,null,null,null,null,"e.g. Cash collected by Pastor Yakin",null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null)
 B.ag8=new A.cG(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null)
 B.rZ=new A.bn(B.rJ,null,null,null,null)
-B.PB=new A.cG(null,null,null,"Email or Phone Number",null,null,null,null,null,null,null,null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,B.rZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null)
-B.PC=new A.cG(null,null,null,"Storage bucket",null,null,null,null,null,null,"form-assets",null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null)
-B.PD=new A.cG(null,null,null,"Note (optional)",null,null,null,null,null,null,"e.g. Cash collected by Pastor Ismail",null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null)
+B.PC=new A.cG(null,null,null,"Email or Phone Number",null,null,null,null,null,null,null,null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,B.rZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null)
+B.PD=new A.cG(null,null,null,"Storage bucket",null,null,null,null,null,null,"form-assets",null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null)
 B.PE=new A.cG(null,null,null,"Full Name",null,null,null,null,null,null,null,null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,B.rZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null)
 B.Np=new A.aC(57544,"MaterialIcons",!1)
 B.mS=new A.bn(B.Np,null,null,null,null)
